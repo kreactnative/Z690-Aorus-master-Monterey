@@ -8,4 +8,4 @@ RAM : 2 x Crucial 16GB Unbuffered DDR5 4800MHz CL40 DIMM
 Lan : Marvell® AQtion AQC113C 10GbE LAN
 Audio : Realtek® ALC1220-VB CODEC
 ```
-![Screenshot](Resources/1.jpg)
+![Screenshot](resources/1.jpg)
