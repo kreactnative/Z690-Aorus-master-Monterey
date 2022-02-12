@@ -8,4 +8,8 @@ RAM : 2 x Crucial 16GB Unbuffered DDR5 4800MHz CL40 DIMM
 Lan : Marvell® AQtion AQC113C 10GbE LAN
 Audio : Realtek® ALC1220-VB CODEC
 ```
+### Add on
+```
+WIFI/BT : Fenvi FV-T919 1750Mbps
+```
 ![Screenshot](resources/1.jpg)
